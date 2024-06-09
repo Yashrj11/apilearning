@@ -1,0 +1,49 @@
+const PORT=process.env.PORT||5000;
+
+const router=express.Router(); me R capital hi hoga
+
+app.use("/api/products", products_routes);/////yeh direct chalwa deta h.... aage naam likhoo ,,piche route ka path do
+
+number bhi ////// Number hoga....capital
+
+data dalne k liye alg se file run krani pdti h,,,,, mongodb wali 
+
+
+...........data dalne k liye steps 
+
+1.dotenv require kiya
+2.mongoose require kiya
+3.connection jaha se build ho rha ,woh require kiya
+4.jaha product ka schema h,woh require kiya
+5.jis file me products h woh require ki..
+
+
+6.connection wali file me mongo ki link pass ki
+7.jis file me schema h usme products wali file pass ki.
+
+
+end me jo file h sirf woh run krwani h.....
+.........................................................
+
+
+data show karane k liye
+
+1.pehle model require karo
+
+2. fir ek function bana kr, usme query chala do,product ke saath wali
+aur usko show krwa do..
+
+
+//// req.query ///// searching aur sorting k liye use hoti h
+
+
+for searching two items ..... /testing?company=apple&name=watch10 ....& ka use kiya jata h
+api path me ? lagate se hi woh header ya parameter dene lagata h 
+
+/////////////////////////////////////////////////////////
+select specify karta h kin documents ko dikhana h aur kinko nhi
+
+
+
+///////////////////////////////////////////////
+pagination =========mtlb fixed content ... ek page pr fixed content hona(page,pagenumber,limitation)

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "iphone5",
+    "price": 154,
+    "featured": true,
+    "company": "apple"
+  },
+
+  {
+    "name": "iphone6",
+    "price": 170,
+    "featured": false,
+    "company": "apple"
+  },
+
+  {
+    "name": "iphone7",
+    "price": 190,
+    "featured": true,
+    "company": "apple"
+  },
+
+  {
+    "name": "watch",
+    "price": 200,
+    "featured": false,
+    "company": "apple"
+  },
+
+  {
+    "name": "laptop",
+    "price": 500,
+    "featured": false,
+    "company": "dell"
+  },
+
+  {
+    "name": "smartphone",
+    "price": 150,
+    "featured": false,
+    "company": "mi"
+  },
+
+  {
+    "name": "led TV",
+    "price": 300,
+    "featured": true,
+    "company": "samsung"
+  },
+
+  {
+    "name": "laptop2",
+    "price": 500,
+    "featured": true,
+    "company": "dell"
+  }
+]
